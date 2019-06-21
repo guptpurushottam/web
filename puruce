@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<title> sublime is best </title>
+<div style="background-color: orange ;color:black; padding :10px;"">
+<span style="color: red"><h1 align = "center" >thank you sublime  </h1></span>
+</head>
+<body>
+	
+	<p  align = "center" purushottam <br /><h1 align="center"><b> this </b><h1 align = "center">webpage is about<h1 align="center"><big> <b>mario</b></big></h1></p>
+	<h1 align = "right" ><ins>created by purushottam gupta</ins></h1> 
+	<hr/>
+	<! hr is indicate  for horizontal line 	<! del for cut the word and ins for underline and i for italic these are the some tag of htnl >  <! these is a comment >
+	<form>
+		<img src="C:\Users\aditya gupta\Downloads\mario.jpg" height="150px" width="100px" alt= "" border="5" />
+		<p align="center"> mario is a character created by by <big><b>Disney</b></big><br/>these is famous charactor of disney cartoon <br/>
+			disney get famous by these charactor according to wikipedia <br/>
+		other sources are also said that </p>
+		<a align = "center" href="http://www.google.com">guptron search</a>
+		<audio controls >
+			<source src="C:\Users\aditya gupta\Downloads\mario\afreen.mp3" type="audio/mpeg">
+		</audio>
+	
+		<video controls>
+			<source src="C:\Users\aditya gupta\Documents\R\win-library\3.5\love.mp4" type="video/mp4" height = "500px" width = "12px">
+		</video>
+		<table  border = "2">
+			<tr bgcolor="orange">
+				<td >red</td>
+				<td>blue</td>
+			<td rowspan = "2"</td>
+			</tr>
+		Status :<progress value="35" max="100" min = "20"></progress>	
+		<frameset cols = "100,25%,*"></frameset>
+		<frameset s = "100,25%,*"></frameset>
+
+		</table>
+		<textarea  name="message"></textarea>
+
+		<li><label for  = "uname" align = "center "><ins>Enter Name</ins></label></li>
+		<li><label for  = "uname" align = "center "><b>your father </b></label></li>
+		<li><label for  = "puru" ><b> suhani jaiswal </b></label></li>
+	</form >
+</div>
+	</body>
+	</html>
